@@ -1,4 +1,4 @@
-import Data from "@data/sections/about-2.json";
+import Data from "../../../data/sections/about-2.json";
 
 const AboutTwoSection = () => {
     return (

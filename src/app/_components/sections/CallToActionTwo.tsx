@@ -1,7 +1,7 @@
-import Data from "@data/sections/call-to-action-2.json";
+import Data from "../../../data/sections/call-to-action-2.json";
 import Link from "next/link";
 
-const CallToActionTwoSection = ( { bg } ) => {
+const CallToActionTwoSection = ( ) => {
   return (
     <>
         {/* call to action */}

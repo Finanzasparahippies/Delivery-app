@@ -1,8 +1,10 @@
-import Header from "@layouts/headers/Index";
-import Footer from "@layouts/footers/Index";
+import Header from "../../app/_layouts/headers/Index";
+import Footer from "../../app/_layouts/footers/Index";
 
 const PagesLayouts = ({
-  children
+    children,
+  }: {
+    children: React.ReactNode;
 }) => {
   return (
     <>

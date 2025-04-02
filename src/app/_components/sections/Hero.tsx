@@ -1,10 +1,10 @@
 "use client";
 
-import Data from "@data/sections/hero-1.json";
+import Data from "../../../data/sections/hero-1.json";
 import Link from "next/link";
 
 import { useEffect } from "react";
-import { ScrollAnimation } from "@common/scrollAnims";
+import { ScrollAnimation } from "../../_common/scrollAnims";
 
 const Hero = ( { type } ) => {
     useEffect(() => {
