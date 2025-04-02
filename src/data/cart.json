@@ -1,0 +1,29 @@
+{
+    "total": 3,
+    "items": [
+        {
+            "title": "Chevrefrit au miel",
+            "image": "",
+            "description": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+            "quantity": 1,
+            "price": "14.00",
+            "currency": "$"
+        },
+        {
+            "title": "Carpaccio de daurade",
+            "image": "",
+            "description": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+            "quantity": 1,
+            "price": "7.99",
+            "currency": "$"
+        },
+        {
+            "title": "Stracciatella",
+            "image": "",
+            "description": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+            "quantity": 1,
+            "price": "11.00",
+            "currency": "$"
+        }
+    ]
+}

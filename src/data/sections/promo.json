@@ -1,0 +1,30 @@
+{
+    "banner1": {
+        "image": {
+            "url": "/img/illustrations/burger.png",
+            "alt": "burger"
+        },
+        "title_before": "Martes y Viernes",
+        "title": "BEBIDA GRATIS",
+        "title_after": "",
+        "subtitle": "En la compra de cualquier Torta!",
+        "text": "*1 bebida por torta.",
+        "button": {
+            "link": "/menu",
+            "label": "Ver menu"
+        }
+    },
+    "banner2": {
+        "image": {
+            "url": "/img/illustrations/cup.png",
+            "alt": "cup"
+        },
+        "title": "Por tus compras!",
+        "subtitle": "Registrate y gana recompensas",
+        "text": "*Las recompensas pueden variar por temporada.",
+        "button": {
+            "link": "/contact",
+            "label": "Registrate"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Servicio a <span>Domicilio</span> a tu medida.",
+    "description": "*Las tarifas de servicio pueden variar en tiempo y costo dependiendo tu ubicación.",
+    "button1": {
+        "label": "Recompensas",
+        "icon": "/img/ui/icons/cart.svg",
+        "link": "/shop"
+    },
+    "button2": {
+        "label": "Menu",
+        "icon": "/img/ui/icons/menu.svg",
+        "link": "/menu"
+    },
+    "image": {
+        "url": "/img/illustrations/delivery.png",
+        "alt": "reserved"
+    }
+}

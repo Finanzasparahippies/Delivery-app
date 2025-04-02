@@ -1,0 +1,19 @@
+{
+    "items": [
+        {
+            "num": "01",
+            "title": "Bienvenidos",
+            "text": "Poder Legislativo 345, colonia Ley 57"
+        },
+        {
+            "num": "02",
+            "title": "Call",
+            "text": "+02 (044) 756-X6-52"
+        },
+        {
+            "num": "03",
+            "title": "Write",
+            "text": "starbelly@mail.com"
+        }
+    ]
+}

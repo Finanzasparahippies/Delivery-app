@@ -1,0 +1,241 @@
+{
+    "categories": [
+        {
+            "name": "Tortas",
+            "slug": "tortas",
+            "description": "Las tortas que estabas buscando, ingredientes frescos y de la mas alta calidad.",
+            "items": [
+                {
+                    "image": "",
+                    "title": "Clasica de Pierna",
+                    "price": "89",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "Pan, mayonesa, mostaza, mantequilla especial, pierna de puerco, aguacate, lechuga, tomate."
+                },
+                {
+                    "image": "",
+                    "title": "Phila-Tocino",
+                    "price": "89",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "Pan, mayones, mostaza, mantequilla especial, doble jamon, queso crema, queso mozzarella, y tocino."
+                },
+                {
+                    "image": "/img/menu/4.jpg",
+                    "title": "Jamón y Queso",
+                    "price": "69",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                },
+                {
+                    "image": "/img/menu/5.jpg",
+                    "title": "Especial de Pollo",
+                    "price": "119",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                },
+                {
+                    "image": "/img/menu/6.jpg",
+                    "title": "Campirana",
+                    "price": "119",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                },
+                {
+                    "image": "/img/menu/7.jpg",
+                    "title": "Bongles",
+                    "price": "119",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                },
+                {
+                    "image": "/img/menu/8.jpg",
+                    "title": "Double Meat",
+                    "price": "119",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                },
+                {
+                    "image": "/img/menu/9.jpg",
+                    "title": "Vegetariana",
+                    "price": "79",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
+                },
+                {
+                    "image": "/img/menu/10.jpg",
+                    "title": "Vegana",
+                    "price": "79",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                }
+            ]
+        },
+        {
+            "name": "Quekas",
+            "slug": "quekas",
+            "description": "Una queka con tortilla gordita hecha por doña pita, sera eso lo que las hace especiales?.",
+            "items": [
+                {
+                    "image": "",
+                    "title": "OnlyChesse",
+                    "price": "39",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                },
+                {
+                    "image": "",
+                    "title": "Jamón y Queso",
+                    "price": "49",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                },
+                {
+                    "image": "",
+                    "title": "Clasica de Pierna",
+                    "price": "69",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                },
+                {
+                    "image": "/img/menu/4.jpg",
+                    "title": "Phila-Tocino",
+                    "price": "79",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                },
+                {
+                    "image": "/img/menu/5.jpg",
+                    "title": "Especial de Pollo",
+                    "price": "89",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                },
+                {
+                    "image": "/img/menu/6.jpg",
+                    "title": "Campirana",
+                    "price": "79",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                },
+                {
+                    "image": "/img/menu/7.jpg",
+                    "title": "Bongles",
+                    "price": "79",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                },
+                {
+                    "image": "/img/menu/8.jpg",
+                    "title": "Double Meat",
+                    "price": "79",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                }
+            ]
+        },
+        {
+            "name": "Papas",
+            "slug": "papas",
+            "description": "Porque las papas fritas rellenan hasta el alma, incluimos tambien el camote frito.",
+            "items": [
+                {
+                    "image": "/img/menu/15.jpg",
+                    "title": "sencillas",
+                    "price": "49",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                },
+                {
+                    "image": "/img/menu/4.jpg",
+                    "title": "con queso cheddar",
+                    "price": "69",
+                    "currency": "$",
+                    "rating": 4,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                },
+                {
+                    "image": "/img/menu/6.jpg",
+                    "title": "Cheddar y Tocino",
+                    "price": "99",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                },
+                {
+                    "image": "/img/menu/10.jpg",
+                    "title": "Cheddar y Pollo (sin salsear)",
+                    "price": "119",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                },
+                {
+                    "image": "/img/menu/14.jpg",
+                    "title": "PapaBongles",
+                    "price": "129",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                }
+            ]
+        },
+        {
+            "name": "Bebidas",
+            "slug": "bebidas",
+            "description": "Solo bebidas naturales y de la casa, agua... no coca - CR7.",
+            "items": [
+                {
+                    "image": "/img/menu/6.jpg",
+                    "title": "Jamaica",
+                    "price": "20",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                },
+                {
+                    "image": "/img/menu/7.jpg",
+                    "title": "Te de Limón",
+                    "price": "20",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                },
+                {
+                    "image": "/img/menu/8.jpg",
+                    "title": "Agua Natural",
+                    "price": "10",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                }
+            ]
+        }
+    ]
+}

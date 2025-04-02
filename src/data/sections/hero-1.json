@@ -1,0 +1,19 @@
+{
+    "image": {
+       "url": "/img/illustrations/girl.png",
+       "alt": "girl"
+    },
+    "subtitle": "Hi, new friend!",
+    "title": "Volvimos<span></span>, <br>para<span> consertirte!</span>",
+    "description": "Pruena nuestra comida y conoce el nuevo sistema de recompensas.",
+    "button1": {
+        "link": "/menu",
+        "icon": "/img/ui/icons/menu.svg",
+        "label": "Menú"
+    },
+    "button2": {
+        "link": "/about",
+        "icon": "/img/ui/icons/arrow.svg",
+        "label": "Quienes somos?"
+    }
+}

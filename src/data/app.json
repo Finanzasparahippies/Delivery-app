@@ -1,0 +1,109 @@
+{
+    "settings": {
+        "siteName": "La Torticolis",
+        "siteDescription": "Las mejores tortas de la ciudad",
+        "siteDevs": "Desersoft",
+        "formspreeURL": "https://formspree.io/f/your_api_key",
+        "mapbox": {
+            "AccessToken": "*",
+            "style": "mapbox://styles/mapbox/light-v11",
+            "zoom": 15,
+            "long": -79.394900,
+            "lat": 43.643102
+        },
+        "perPage": 6
+    },
+    "header": {
+        "logo": {
+            "image": "/img/logo.png",
+            "alt": "Logo"
+        },
+        "menu": [
+            {
+                "label": "Inicio",
+                "link": "/"
+            },
+            {
+                "label": "Menu",
+                "link": "/menu"
+            },
+            {
+                "label": "Servicios",
+                "link": "#",
+                "children": [
+                    {
+                        "label": "Recompensas",
+                        "link": "/rewards"
+                    },
+                    {
+                        "label": "Juegos",
+                        "link": "/games"
+                    },
+                    {
+                        "label": "Merch",
+                        "link": "/merch"
+                    },
+                    {
+                        "label": "Blog",
+                        "link": "/blog"
+                    },
+                    {
+                        "label": "Eventos",
+                        "link": "/events"
+                    },
+                    {
+                    "label": "¿Quieres ser repartidor?",
+                        "link": "/staff"
+                    }
+                ]
+            }
+        ]
+    },
+    "footer": {
+        "copy": "© 2025 Torticolis"
+    },
+    "social": [
+        {
+            "link": "https://instagram.com/latorticolishmo/",
+            "title": "Instagram",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "link": "https://facebook.com/LaTorticolisHmo",
+            "title": "Facebook",
+            "icon": "fab fa-facebook-f"
+        }
+    ],
+    "instagram": [
+        {
+            "image": "/img/instagram/1.jpg",
+            "title": "Image #1",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/2.jpg",
+            "title": "Image #2",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/3.jpg",
+            "title": "Image #3",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/4.jpg",
+            "title": "Image #3",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/5.jpg",
+            "title": "Image #5",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/6.jpg",
+            "title": "Image #6",
+            "link": "https://instagram.com/"
+        }
+    ]
+}

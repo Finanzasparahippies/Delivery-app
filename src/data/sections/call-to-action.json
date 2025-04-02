@@ -1,0 +1,16 @@
+{
+    "title": "Proximamente descarga nuestra app móvil.",
+    "subtitle": "La torticolis hasta tu casa.",
+    "image": {
+        "url": "/img/illustrations/phones.png",
+        "alt": "phones"
+    },
+    "link1": {
+        "url": "https://google.com/",
+        "title": "Google Play Market"
+    },
+    "link2": {
+        "url": "https://apple.com/",
+        "title": "App Store"
+    }
+}

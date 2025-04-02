@@ -1,0 +1,13 @@
+{
+    "title": "Estamos <span>trabajando</span> para<br>superar tus expectativas",
+    "description": "<p>Con nuestro innovador sistema de recompensas tus compras generan puntos que puedes intercambiar por cualquiera de nuestros premios, que pueden ser productos o cualquiera de la mercancia del catalogo.</p>",
+    "image": {
+        "url": "/img/gallery/2.jpg",
+        "alt": "image"
+    },
+    "number": {
+        "value": "37",
+        "label": "Años de experiencia"
+    },
+    "signature": "/img/ui/signature.png"
+}

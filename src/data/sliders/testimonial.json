@@ -1,0 +1,35 @@
+{
+    "title": "Reseñas <span>sobre</span> nosotros",
+    "description": "Que opina la gente de la Torticolis.",
+    "button": {
+        "link": "/reviews",
+        "icon": "/img/ui/icons/dialog.svg",
+        "label": "Todas las reseñas"
+    },
+    "items": [
+        {
+            "name": "Rocio Lopez",
+            "rating": 5,
+            "image": "/img/faces/1.jpg",
+            "text": "Deliciosas tortas de pierna y papas fritas. Súper recomendadas"
+        },
+        {
+            "name": "guadalupe cruz",
+            "rating": 5,
+            "image": "/img/faces/2.jpg",
+            "text": "Verdaderamente un arte en hacer tortas ¡¡¡ super recomendada receta familiar ¡¡¡"
+        },
+        {
+            "name": "Uriel Coria",
+            "rating": 5,
+            "image": "/img/faces/3.jpg",
+            "text": "Excelente servicio, calidad, presentación y sobre todo sabor! Muy recomendado"
+        },
+        {
+            "name": "Manuel P",
+            "rating": 5,
+            "image": "/img/faces/4.jpg",
+            "text": "Algo bien 😜"
+        }
+    ]
+}
